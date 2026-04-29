@@ -1,4 +1,4 @@
-<h1 align = "center">🧭 The Survey of Deep Neural Network Testing
+<h1 align = "center">🧭 The Survey of DNN Testing
 </h1>
 <!-- <p align="center">
   <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"></a>
