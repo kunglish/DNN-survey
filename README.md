@@ -68,7 +68,7 @@
 10. MetaPri: Test Input Prioritization Based on Metamorphic Testing [2025-CSECS] [[paper](https://ieeexplore.ieee.org/abstract/document/11009647)]
 11. BDTest: A Diversity-Oriented Test Case Generation Framework for Deep Neural Networks in 6G-IOT [2025-IoT] [[paper](https://ieeexplore.ieee.org/abstract/document/11186810)]
 12. DeepCNP: An Efficient White-Box Testing of Deep Neural Networks by Aligning Critical Neuron Paths [2025-IST] [[paper](https://www.sciencedirect.com/science/article/pii/S0950584924002453)]
-13. CtrlFuzz: A Controllable Diffusion-Based Fuzz Testing for Deep Neural Networks via Coverage-aware Manifold Guidance [2025-IST] [[paper](https://www.sciencedirect.com/science/article/pii/S0950584925001958)]
+13. CtrlFuzz: A Controllable Diffusion-Based Fuzz Testing for Deep Neural Networks via Coverage-Aware Manifold Guidance [2025-IST] [[paper](https://www.sciencedirect.com/science/article/pii/S0950584925001958)]
 14. Markov Model Based Coverage Testing of Deep Learning Software Systems [2025-IST] [[paper](https://www.sciencedirect.com/science/article/pii/S0950584924002337)]
 15. Lightweight Probabilistic Coverage Metrics for Efficient Testing of Deep Neural Networks [2025-INTERNETWARE] [[paper](https://dl.acm.org/doi/full/10.1145/3755881.3755915)]
 16. Deep2Fuzz: Coverage-Guided Reinforcement Fuzzing towards Deep Neural Networks [2025-NaNA] [[paper](https://ieeexplore.ieee.org/abstract/document/11272548)]
@@ -139,7 +139,7 @@
 81. Adaptive Key Neuron-Guided Fuzz Testing for Human Security in Deep Learning System [2024-iHumEnTech] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-97578-3_52)]
 82. DeepSample: DNN Sampling-Based Testing for Operational Accuracy Assessment [2024-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639584)]
 83. Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability [2024-ISSRE] [[paper](https://ieeexplore.ieee.org/abstract/document/10771474)]
-84. Neuron Importance-aware Coverage Analysis for Deep Neural Network Testing [2024-ESE] [[paper](https://link.springer.com/article/10.1007/s10664-024-10524-x)]
+84. Neuron Importance-Aware Coverage Analysis for Deep Neural Network Testing [2024-ESE] [[paper](https://link.springer.com/article/10.1007/s10664-024-10524-x)]
 85. CIT4DNN: Generating Diverse and Rare Inputs for Neural Networks Using Latent Space Combinatorial Testing [2024-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639106)]
 86. Enhancing Valid Test Input Generation with Distribution Awareness for Deep Neural Networks [2024-COMPSAC] [[paper](https://ieeexplore.ieee.org/abstract/document/10633581)]
 87. Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing [2024-TSE] [[paper](https://ieeexplore.ieee.org/abstract/document/10462634)]
@@ -179,7 +179,7 @@
 121. An Overview of Structural Coverage Metrics for Testing Neural Networks [2023-STTT] [[paper](https://link.springer.com/article/10.1007/s10009-022-00683-x)]
 122. Rule-Based Testing of Neural Networks [2023-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3617574.3622747)]
 123. In Defense of Simple Techniques for Neural Network Test Case Selection [2023-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3597926.3598073)]
-124. Hierarchical Distribution-aware Testing of Deep Learning [2023-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3625290)]
+124. Hierarchical Distribution-Aware Testing of Deep Learning [2023-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3625290)]
 125. DeepRover: A Query-Efficient BlackBox Attack for Deep Neural Networks [2023-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3611643.3616370)]
 126. A Geometrical Approach to Evaluate the Adversarial Robustness of Deep Neural Networks [2023-TOMM] [[paper](https://dl.acm.org/doi/full/10.1145/3587936)]
 127. CoopHance: Cooperative Enhancement for Robustness of Deep Learning Systems [2023-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3597926.3598093)]
@@ -316,7 +316,7 @@
 15. Adaptive Key Neuron-Guided Fuzz Testing for Human Security in Deep Learning System [2024-iHumEnTech] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-97578-3_52)]
 16. DeepSample: DNN Sampling-Based Testing for Operational Accuracy Assessment [2024-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639584)]
 17. Themis: Automatic and Efficient Deep Learning System Testing with Strong Fault Detection Capability [2024-ISSRE] [[paper](https://ieeexplore.ieee.org/abstract/document/10771474)]
-18. Neuron importance-aware Coverage Analysis for Deep Neural Network Testing [2024-ESE] [[paper](https://link.springer.com/article/10.1007/s10664-024-10524-x)]
+18. Neuron importance-Aware Coverage Analysis for Deep Neural Network Testing [2024-ESE] [[paper](https://link.springer.com/article/10.1007/s10664-024-10524-x)]
 19. CIT4DNN: Generating Diverse and Rare Inputs for Neural Networks Using Latent Space Combinatorial Testing [2024-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3597503.3639106)]
 20. Enhancing Valid Test Input Generation with Distribution Awareness for Deep Neural Networks [2024-COMPSAC] [[paper](https://ieeexplore.ieee.org/abstract/document/10633581)]
 21. Provably Valid and Diverse Mutations of Real-World Media Data for DNN Testing [2024-TSE] [[paper](https://ieeexplore.ieee.org/abstract/document/10462634)]
@@ -527,7 +527,7 @@
 
 
 ### Smart Home System Testing
-1. Environment-aware Testing for DNN-Based Smart-home WiFi Sensing Systems [2023-SANER] [[paper](https://ieeexplore.ieee.org/abstract/document/10123673)]
+1. Environment-Aware Testing for DNN-Based Smart-home WiFi Sensing Systems [2023-SANER] [[paper](https://ieeexplore.ieee.org/abstract/document/10123673)]
 
 
 
