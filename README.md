@@ -58,7 +58,7 @@
 ### Image Classification System Testing
 1. Navigating the Testing of Evolving Deep Learning Systems: An Exploratory Interview Study [2025-ICSE] [[paper](https://www.computer.org/csdl/proceedings-article/icse/2025/056900a643/251mGh4tJn2)]
 2. Measuring Training Variability From Stochastic Optimization using Robust Nonparametric Testing [2025-JSTSP] [[paper](https://ieeexplore.ieee.org/abstract/document/11053660)]
-3. DeepKernel: 2D-kernels Clustering Based Mutant Reduction for Cost-effective Deep Learning Model Testing [2025-JSS] [[paper](https://www.sciencedirect.com/science/article/pii/S0164121224002917)]
+3. DeepKernel: 2D-Kernels Clustering Based Mutant Reduction for Cost-effective Deep Learning Model Testing [2025-JSS] [[paper](https://www.sciencedirect.com/science/article/pii/S0164121224002917)]
 4. Robust Testing for Deep Learning using Human Label Noise [2025-DeepTest] [[paper](https://ieeexplore.ieee.org/abstract/document/11026911)]
 5. Selection of Test Samples to Improve DNN Test Efficiency Based on Neuron Clusters [2025-NCA] [[paper](https://link.springer.com/article/10.1007/s00521-024-10894-9)]
 6. TestifAI: Probabilistic Context-Aware Testing For Safe Deep Learning Models [2025-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/11024417)]
@@ -171,9 +171,9 @@
 113. Boosting the Revealing of Detected Violations in Deep Learning Testing: A Diversity-Guided Method [2023-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3551349.3556919)]
 114. When and Why Test Generators for Deep Learning Produce Invalid Inputs: An Empirical Study [2023-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/10172704)]
 115. DistXplore: Distribution-Guided Testing for Evaluating and Enhancing Deep Learning Systems [2023-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3611643.3616266)]
-116. DLRegion: Coverage-guided Fuzz Testing of Deep Neural Networks with Region-Based Neuron Selection Strategies [2023-IST] [[paper](https://www.sciencedirect.com/science/article/pii/S0950584923001209)]
+116. DLRegion: Coverage-Guided Fuzz Testing of Deep Neural Networks with Region-Based Neuron Selection Strategies [2023-IST] [[paper](https://www.sciencedirect.com/science/article/pii/S0950584923001209)]
 117. Input Distribution Coverage: Measuring Feature Interaction Adequacy in Neural Network Testing [2023-TOMSE] [[paper](https://dl.acm.org/doi/full/10.1145/3576040)]
-118. Repairing Failure-inducing Inputs with Input Reflection [2023-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3551349.3556932)]
+118. Repairing Failure-Inducing Inputs with Input Reflection [2023-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3551349.3556932)]
 119. HeatC: A Variable-Grained Coverage Criterion for Deep Learning Systems [2023-SETTA] [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8664-4_14)]
 120. CC: Causality-Aware Coverage Criterion for Deep Neural Networks [2023-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/10172609)]
 121. An Overview of Structural Coverage Metrics for Testing Neural Networks [2023-STTT] [[paper](https://link.springer.com/article/10.1007/s10009-022-00683-x)]
@@ -217,7 +217,7 @@
 159. EREBA: Black-Box Energy Testing of Adaptive Neural Networks [2022-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510088)]
 160. A Method and Experiment to Evaluate Deep Neural Networks as Test Oracles for Scientific Software [2022-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3524481.3527232)]
 161. Adaptive Test Selection for Deep Neural Networks[ 2022-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510232)]
-162. Multi-objective Metamorphic Follow-up Test Case Selection for Deep Learning Systems [2022-GECCO] [[paper](https://dl.acm.org/doi/abs/10.1145/3512290.3528697)]
+162. Multi-objective Metamorphic Follow-Up Test Case Selection for Deep Learning Systems [2022-GECCO] [[paper](https://dl.acm.org/doi/abs/10.1145/3512290.3528697)]
 163. One Step Further: Evaluating Interpreters using Metamorphic Testing [2022-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3533767.3534225)]
 164. CAGFuzz: Coverage-Guided Adversarial Generative Fuzzing Testing for Image-Based Deep Learning Systems [2022-TSE] [[paper](https://ieeexplore.ieee.org/abstract/document/9599374)]
 165. DeepMC: DNN Test Sample Optimization Method Jointly Guided by Misclassification and Coverage [2022-APIN] [[paper](https://link.springer.com/article/10.1007/s10489-022-04323-4)]
@@ -273,7 +273,7 @@
 215. ARTDL: Adaptive Random Testing for Deep Learning Systems [2020-IEEE Access] [[paper](https://ieeexplore.ieee.org/abstract/document/8944083)]
 216. Model-Based Exploration of the Frontier of Behaviours for Deep learning System Testing [2020-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3368089.3409730)]
 217. Is Neuron Coverage a Meaningful Measure for Testing Deep Neural Networks? [2020-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3368089.3409754)]
-218. DeepBillboard: Systematic Physical-world Testing of Autonomous Driving Systems [2020-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3377811.3380422)]
+218. DeepBillboard: Systematic Physical-World Testing of Autonomous Driving Systems [2020-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3377811.3380422)]
 219. Importance-Driven Deep Learning System Testing [2020-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3377811.3380391)]
 220. An Empirical Evaluation of Mutation Operators for Deep Learning Systems [2020-ICST] [[paper](https://ieeexplore.ieee.org/abstract/document/9159089)]
 221. Practical Accuracy Estimation for Efficient Deep Neural Network Testing [2020-TOSEM] [[paper](https://dl.acm.org/doi/abs/10.1145/3394112)]
@@ -324,7 +324,7 @@
 23. Bridging the Gap between Real-world and Synthetic Images for Testing Autonomous Driving Systems [2024-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695067)]
 24. Predicting Safety Misbehaviours in Autonomous Driving Systems using Uncertainty Quantification [2024-ICST] [[paper](https://ieeexplore.ieee.org/abstract/document/10638606)]
 25. Empirical Test of Visual Recognition System of Autonomous Vehicle Based On Deep Learning [2024-ICSECE] [[paper](https://ieeexplore.ieee.org/abstract/document/10729404)]
-26. Causality-driven Testing of Autonomous Driving Systems [2024-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3635709)]
+26. Causality-Driven Testing of Autonomous Driving Systems [2024-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3635709)]
 27. Towards Reliable AI: Adequacy Metrics for Ensuring the Quality of System-level Testing of Autonomous Vehicles [2024-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3597503.3623314)]
 28. Federated Repair of Deep Neural Networks [2024-DeepTest] [[paper](https://dl.acm.org/doi/pdf/10.1145/3643786#page=24)]
 29. Test Input Prioritization for 3D Point Clouds [2024-DeepTest] [[paper](https://dl.acm.org/doi/full/10.1145/3643676)]
@@ -349,7 +349,7 @@
 48. TPFL: Test Input Prioritization for Deep Neural Networks Based on Fault Localization [2022-ADMA] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-22064-7_27)]
 49. DeepSuite: A Test Suite Optimizer for Autonomous Vehicles [2022-T-ITS] [[paper](https://ieeexplore.ieee.org/abstract/document/9646479)]
 50. LiRTest: Augmenting LiDAR Point Clouds for Automated Testing of Autonomous Driving Systems [2022-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3533767.3534397)]
-51. Efficient Online testing for DNN-enabled Systems using Surrogate-assisted and Many-objective Optimization [2022-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510188)]
+51. Efficient Online testing for DNN-Enabled Systems using Surrogate-Assisted and Many-Objective Optimization [2022-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510188)]
 52. MDPFuzz: Testing Models Solving Markov Decision Processes [2022-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3533767.3534388)]
 53. DeepHyperion: Exploring the Feature Space of Deep Learning-Based Systems Through Illumination Search [2021-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3460319.3464811)]
 54. Prioritizing Test Inputs for Deep Neural Networks via Mutation Analysis [2021-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/9402064)]
@@ -359,7 +359,7 @@
 58. ARTDL: Adaptive Random Testing for Deep Learning Systems [2020-IEEE Access] [[paper](https://ieeexplore.ieee.org/abstract/document/8944083)]
 59. Model-Based Exploration of the Frontier of Behaviours for Deep Learning System Testing [2020-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3368089.3409730)]
 60. Is Neuron Coverage A Meaningful Measure for Testing Deep Neural Networks? [2020-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3368089.3409754)]
-61. DeepBillboard: Systematic Physical-world Testing of Autonomous Driving systems [2020-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3377811.3380422)]
+61. DeepBillboard: Systematic Physical-World Testing of Autonomous Driving systems [2020-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3377811.3380422)]
 62. Importance-Driven Deep Learning System Testing [2020-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3377811.3380391)]
 63. An Empirical Evaluation of Mutation Operators for Deep Learning Systems [2020-ICST] [[paper](https://ieeexplore.ieee.org/abstract/document/9159089)]
 64. Practical Accuracy Estimation for Efficient Deep Neural Network Testing [2020-TOMSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3394112)]
@@ -371,7 +371,7 @@
 70. Guiding Deep Learning System Testing using Surprise Adequacy [2019-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/8812069)]
 71. Boosting Operational DNN Testing Efficiency Through Conditioning [2019-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3338906.3338930)]
 72. DeepRoad: GAN-Based Metamorphic Testing and Input Validation Framework for Autonomous Driving Systems [2018-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3238147.3238187)]
-73. DeepTest: Automated Testing of Deep-neural-network-driven Autonomous Cars [2018-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3180155.3180220)]
+73. DeepTest: Automated Testing of Deep Neural Network Driven Autonomous Cars [2018-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3180155.3180220)]
 74. DeepXplore: Automated WhiteBox Testing of Deep Learning Systems [2017-SOSP] [[paper](https://dl.acm.org/doi/abs/10.1145/3132747.3132785)]
 
 
@@ -384,7 +384,7 @@
 6. Understanding the Effectiveness of Coverage Criteria for Large Language Models: A Special Angle from Jailbreak Attacks [2025-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/11029795)]
 7. Evaluating Large Language Model Robustness using Combinatorial Testing [2025-ICSTW] [[paper](https://ieeexplore.ieee.org/abstract/document/10962520)]
 8. Evaluating Large Language Models for Software Testing [2025-CSI] [[paper](https://www.sciencedirect.com/science/article/pii/S0920548924001119)]
-9. Risk Assessment Framework for Code Llms Via Leveraging Internal States [2025-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3696630.3728566)]
+9. Risk Assessment Framework for Code LLMs Via Leveraging Internal States [2025-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3696630.3728566)]
 10. Robustness Evaluation of Code Generation Systems Via Concretizing Instructions [2025-IST] [[paper](https://www.sciencedirect.com/science/article/pii/S0950584924002507)]
 11. HiBenchLLM: Historical Inquiry Benchmarking for Large Language Models [2025-DKE] [[paper](https://www.sciencedirect.com/science/article/pii/S0169023X24001071)]
 12. Evaluation and Improvement of Test Selection for Large Language Models [2025-J SOFTW-EVOL PROC] [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.70057)]
@@ -393,7 +393,7 @@
 15. Challenging the Validity of Personality Tests for Large Language Models [2025-EAAMO] [[paper](https://dl.acm.org/doi/full/10.1145/3757887.3763016)]
 16. ASTRAL: A Tool for the Automated Safety Testing of Large Language Models [2025-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3713081.3731733)]
 17. LeCov: Multi-level Testing Criteria for Large Language Models [2025-JSS] [[paper](https://www.sciencedirect.com/science/article/pii/S0164121225004327)]
-18. Online Safety Analysis for LLMs: a Benchmark, an Assessment, and a Path Forward [2025-TAI] [[paper](https://ieeexplore.ieee.org/abstract/document/11145129)]
+18. Online Safety Analysis for LLMs: A Benchmark, an Assessment, and a Path Forward [2025-TAI] [[paper](https://ieeexplore.ieee.org/abstract/document/11145129)]
 19. Benchmarking Vision Capabilities of Large Language Models in Surgical Examination Questions [2025-JSE] [[paper](https://www.sciencedirect.com/science/article/pii/S1931720425000236)]
 20. Evaluation of Chat Generative Pre-trained Transformer and Microsoft Copilot Performance on the American Society of Surgery of the Hand Self-Assessment Examinations [2025-JHS GO] [[paper](https://www.sciencedirect.com/science/article/pii/S2589514124001907)]
 21. Adaptive Testing for LLM-Based Applications: A Diversity-Based Approach [2025-ICSTW] [[paper](https://ieeexplore.ieee.org/abstract/document/10962467)]
@@ -422,8 +422,8 @@
 15. Dynamic Data Fault Localization for Deep Neural Networks [2023-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3611643.3616345)]
 16. Revisiting Neuron Coverage for DNN Testing: A Layer-Wise and Distribution-Aware Criterion [2023-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/10172683)]
 17. DeepAtash: Focused Test Generation for Deep Learning Systems [2023-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/10172683)]
-18. LaF: Labeling-free Model Selection for Automated Deep Neural Network Reusing [2023-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3611666)]
-19. Revisiting Deep Neural Network Test Coverage from the Test Effectiveness Perspective [2023-J SOFTW-EVOL PROC] [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2561)]
+18. LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing [2023-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3611666)]
+19. Revisiting Deep Neural Network Test Coverage from The Test Effectiveness Perspective [2023-J SOFTW-EVOL PROC] [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/smr.2561)]
 20. Simple Techniques Work Aurprisingly Well for Neural Network Test Prioritization and Active Learning (replicability study) [2022-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3533767.3534375)]
 21. DeepState: Selecting Test Suites to Enhance the Robustness of Recurrent Neural Networks [2022-ICSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3510003.3510231)]
 22. A Distance-Based Dynamic Random Testing Strategy for Natural Language Processing DNN Models [2022-QRS] [[paper](https://ieeexplore.ieee.org/abstract/document/10062454)]
@@ -486,7 +486,7 @@
 
 
 ### Code Detection System Testing
-1. LaF: Labeling-free Model Selection for Automated Deep Neural Network Reusing [2024-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695523)]
+1. LaF: Labeling-Free Model Selection for Automated Deep Neural Network Reusing [2024-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3691620.3695523)]
 2. KAPE: kNN-Based Performance Testing for Deep Code Search [2023-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3624735)]
 3. CoCoFuzzing: Testing Neural Code Models With Coverage-Guided Fuzzing [2023-TR] [[paper](https://ieeexplore.ieee.org/abstract/document/9916170)]
 4. A Search-Based Testing Framework for Deep Neural Networks of Source Code Embedding [2021-ICST] [[paper](https://ieeexplore.ieee.org/abstract/document/9438605)]
@@ -501,7 +501,7 @@
 
 ### Dialogue System Testing
 1. Applying Pairwise Combinatorial Testing to Large Language Model Testing[2023-ICTSS] [[paper](https://link.springer.com/chapter/10.1007/978-3-031-43240-8_16)]
-2. DialTest: Automated Testing for Recurrent-neural-network-driven Dialogue Systems [2021-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3460319.3464829)]
+2. DialTest: Automated Testing for Recurrent Neural Network Driven Dialogue Systems [2021-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3460319.3464829)]
 
 
 ### Airborne Collision Avoidance System Testing
@@ -527,28 +527,28 @@
 
 
 ### Smart Home System Testing
-1. Environment-Aware Testing for DNN-Based Smart-home WiFi Sensing Systems [2023-SANER] [[paper](https://ieeexplore.ieee.org/abstract/document/10123673)]
+1. Environment-Aware Testing for DNN-Based Smart-Home WiFi Sensing Systems [2023-SANER] [[paper](https://ieeexplore.ieee.org/abstract/document/10123673)]
 
 
 
 
 ## 🔗 Related DNN Testing Surveys
 
-1. Coverage-Guided Testing for Deep Learning Models: a Comprehensive Survey [2025-arXiv] [[paper](https://arxiv.org/abs/2507.00496)]
+1. Coverage-Guided Testing for Deep Learning Models: A Comprehensive Survey [2025-arXiv] [[paper](https://arxiv.org/abs/2507.00496)]
 
-2. Test Optimization in DNN Testing: a Survey [2024-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3643678)]
+2. Test Optimization in DNN Testing: A Survey [2024-TOSEM] [[paper](https://dl.acm.org/doi/full/10.1145/3643678)]
 
 3. Testing Deep Learning-Based Visual Perception for Automated Driving [2024-TCPS] [[paper](https://dl.acm.org/doi/abs/10.1145/3450356)]
 
-4. A survey of uncertainty in deep neural networks [2023-AIR] [[paper](https://link.springer.com/article/10.1007/s10462-023-10562-9)]
+4. A Survey of Uncertainty in Deep Neural Networks [2023-AIR] [[paper](https://link.springer.com/article/10.1007/s10462-023-10562-9)]
 
 5. Research on Deep Neural Network Testing Techniques [2023-ICMLCA] [[paper](https://dl.acm.org/doi/abs/10.1145/3650215.3650237)]
 
 6. Testing of Autonomous Driving Systems: Where are We and Where Whould We Go? [2022-FSE] [[paper](https://dl.acm.org/doi/abs/10.1145/3540250.3549111)]
 
-7. Testing Deep Learning Models: a First Comparative Study of Multiple Testing Techniques [2022-arXiv] [[paper](https://arxiv.org/abs/2202.12139)]
+7. Testing Deep Learning Models: A First Comparative Study of Multiple Testing Techniques [2022-arXiv] [[paper](https://arxiv.org/abs/2202.12139)]
 
-8. Adversarial Robustness of Deep Neural Networks: a Survey From a Formal Verification Perspective [2022-TDSC] [[paper](https://ieeexplore.ieee.org/document/9785704)]
+8. Adversarial Robustness of Deep Neural Networks: A Survey From a Formal Verification Perspective [2022-TDSC] [[paper](https://ieeexplore.ieee.org/document/9785704)]
 
 9. Survey on Testing of Deep Neural Networks [2020-JSW] [[paper](https://jos.org.cn/jos/article/abstract/5951)]
 
