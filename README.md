@@ -255,7 +255,7 @@
 197. Operation is the Hardest Teacher: Estimating DNN Accuracy Looking for Mispredictions [2021-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/9402144)]
 198. Audee: Automated Testing for Deep Learning Frameworks [2021-ASE] [[paper](https://dl.acm.org/doi/abs/10.1145/3324884.3416571)]
 199. Towards Exploring the Limitations of Active Learning: An Empirical Study [2021-ASE] [[paper](https://ieeexplore.ieee.org/abstract/document/9678672)]
-200. DeepHyperion: Exploring the Feature Space of Deep Learning-based Systems through illumination search [2021-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3460319.3464811)]
+200. DeepHyperion: Exploring the Feature Space of Deep Learning-based Systems through Illumination Search [2021-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3460319.3464811)]
 201. DeepCrime: Mutation Testing of Deep Learning Systems Based on Real Faults [2021-ISSTA] [[paper](https://dl.acm.org/doi/abs/10.1145/3460319.3464825)]
 202. Prioritizing Test Inputs for Deep Neural Networks via Mutation Analysis [2021-ICSE] [[paper](https://ieeexplore.ieee.org/abstract/document/9402064)]
 203. Neuron Activation Frequency Based Test Case Prioritization [2020-TASE] [[paper](https://ieeexplore.ieee.org/abstract/document/9405318)]
